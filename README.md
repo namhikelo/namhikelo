@@ -30,6 +30,7 @@ Discord: Keloo#5131
 <h3 align="left">Skills:</h3>
 <p align="left">
 Network: CCNA, MCSA
+
 Tools: Metasploit, nmap
 
 </p>
