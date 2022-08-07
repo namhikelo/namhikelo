@@ -44,8 +44,16 @@ I am an undergraduate student at FPT University in Information Assurance
 </table>
 
 <hr>
+
+<!-- 🔭Actions -->
+<h3 align="left">🔭Actions:</h3>
+<div align="left">
+
+<div align="center" style="width: 50%;">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiangNTSE150747"/>
+</div>
 <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=namhikelo&theme=github"/>
+  <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=namhikelo&theme=github"/>
 </div>
 
 <hr>
