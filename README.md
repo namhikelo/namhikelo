@@ -48,7 +48,7 @@ Tools: Metasploit, nmap
 <!-- 🔭Actions -->
 <h3 align="left">🔭Actions:</h3>
 <div align="left">
-
+<!--
 <table style="width:100%;">
   <tr>
     <td>
@@ -62,7 +62,7 @@ Tools: Metasploit, nmap
     </td>
   </tr>
 </table>
-
+-->
 <div align="center">
   <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=namhikelo&theme=github"/>
 </div>
