@@ -10,6 +10,19 @@ I am an undergraduate student at FPT University in Information Assurance
 - 🌱 I’m currently learning: **CEH**, **MCSA**, **CompTIA Security+**
 
 - 
+
+<hr>
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/namhikelo)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namkelo)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namphanhoang20@gmail.com)
+
+Discord: Keloo#5131
+</div>
+
 <hr>
 <!-- Skills -->
 <h3 align="left">Skills:</h3>
@@ -56,17 +69,7 @@ I am an undergraduate student at FPT University in Information Assurance
   <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=namhikelo&theme=github"/>
 </div>
 
-<hr>
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<div align="left">
 
-[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/namhikelo)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namkelo)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namphanhoang20@gmail.com)
-
-Discord: Keloo#5131
-</div>
 
 <hr>
 <h3 align="left">Certificates:</h3>
