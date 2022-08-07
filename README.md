@@ -42,10 +42,6 @@ Discord: Keloo#5131
 
 <hr>
 
-
-
-<hr>
-
 <!-- 🔭Actions -->
 <h3 align="left">🔭Actions:</h3>
 <div align="left">
@@ -67,8 +63,6 @@ Discord: Keloo#5131
 <div align="center">
   <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=namhikelo&theme=github"/>
 </div>
-
-
 
 <hr>
 <h3 align="left">Certificates:</h3>
