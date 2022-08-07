@@ -5,11 +5,13 @@ I am an undergraduate student at FPT University in Information Assurance
 <hr>
 <h3 align="left"><b>About Me:</b></h3>
 
+- 🙇 Hi, I’m a newbie in the world of cyber security.
+
 - 🌁 I’m currently studying in **FPT Universiy**
 
 - 🌱 I’m currently learning: **CEH**, **MCSA**, **CompTIA Security+**
 
-- 
+- ⚡ Fun fact: Play game, chess.
 
 <hr>
 <!-- Connect with me -->
@@ -71,3 +73,5 @@ Discord: Keloo#5131
 <p align="center">
 
 </p>
+
+Last edit: 07/08/2022
