@@ -43,6 +43,10 @@ I am an undergraduate student at FPT University in Information Assurance
   </tr>
 </table>
 
+<hr>
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=namhikelo&theme=github"/>
+</div>
 
 <hr>
 <!-- Connect with me -->
