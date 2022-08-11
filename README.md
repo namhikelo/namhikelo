@@ -14,7 +14,7 @@ I am an undergraduate student at FPT University in Information Assurance
 - ⚡ Fun fact: Play game, chess.
 
 <div align="left">
-<img src="https://tryhackme-badges.s3.amazonaws.com/namhikelo.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/856849"></script>
 </div>
 
 <hr>
