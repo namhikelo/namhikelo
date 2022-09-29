@@ -1,6 +1,6 @@
 <!-- Intro -->
 ### Hi there, I'm Phan Hoang Nam  (Kelo)
-I am an undergraduate student at FPT University in Information Assurance
+I am studying Information Assurance at FPT University.
 
 <hr>
 <h3 align="left"><b>About Me:</b></h3>
