@@ -68,5 +68,3 @@ Discord: Keloo#5131
 <p align="center">
 
 </p>
-
-Last edit: 08/08/2022
