@@ -58,10 +58,4 @@ Discord: Keloo#5131
 </table>
 
 
-<hr>
-<h3 align="left">Certificates:</h3>
-<p align="left">
 
-<p align="center">
-
-</p>
