@@ -13,9 +13,6 @@ I am studying Information Assurance at FPT University.
 
 - ⚡ Fun fact: Play game, chess.
 
-<div align="left">
-<img src="https://tryhackme-badges.s3.amazonaws.com/namhikelo.png" alt="TryHackMe">
-</div>
 
 <hr>
 <!-- Connect with me -->
