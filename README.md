@@ -11,7 +11,7 @@ I am studying Information Assurance at FPT University.
 
 - 🌱 I’m currently learning: **CEH**, **MCSA**, **CompTIA Security+**
 
-- ⚡ Fun fact: Play game, chess.
+- ⚡ Fun fact: Play game LOL, Chess.
 
 
 <hr>
@@ -57,9 +57,6 @@ Discord: Keloo#5131
   </tr>
 </table>
 
-<div align="center">
-  <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=namhikelo&theme=github"/>
-</div>
 
 <hr>
 <h3 align="left">Certificates:</h3>
