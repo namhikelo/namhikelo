@@ -29,15 +29,6 @@ Discord: Keloo#5131
 </div>
 
 <hr>
-<!-- Skills -->
-<h3 align="left">Skills:</h3>
-<p align="left">
-Network: CCNA, MCSA
-
-Tools: Metasploit, nmap
-
-</p>
-<hr>
 
 <!-- OS-->
 <h3 align="left">OS:</h3>
